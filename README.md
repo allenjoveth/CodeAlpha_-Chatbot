@@ -1,6 +1,6 @@
 # Implementation of Chatbot:
 
-# AIM:
+## AIM:
 To develop a simple and interactive chatbot that can answer frequently asked questions (FAQs) based on user input using Natural Language Processing (NLP).
 
 
